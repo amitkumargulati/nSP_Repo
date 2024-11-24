@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [nSP_Suite]" parallel="classes">
+  <listeners>
+    <listener class-name="nSP.listeners.CustomListeners"/>
+    <listener class-name="nSP.errorcollectors.TestListenerAdapter"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="1" name="nSP_Test(failed)" parallel="classes">
+    <classes>
+      <class name="nSP.testcases.BookOneWayTicket">
+        <methods>
+          <include name="bookOneWayTicket" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- nSP.testcases.BookOneWayTicket -->
+    </classes>
+  </test> <!-- nSP_Test(failed) -->
+</suite> <!-- Failed suite [nSP_Suite] -->

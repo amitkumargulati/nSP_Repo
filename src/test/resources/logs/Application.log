@@ -1,0 +1,32 @@
+24/08/2020 12:18:52 devpinoyLogger Launching Chrome
+24/08/2020 12:18:56 devpinoyLogger Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrValue']]
+24/08/2020 12:18:56 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrValue']] entered value as : O8VYR2 
+24/08/2020 12:18:56 devpinoyLogger Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrlastname']]
+24/08/2020 12:18:57 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrlastname']] entered value as : kumar
+24/08/2020 12:18:57 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrlastname']]
+24/08/2020 12:18:57 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='searchPNRBtn']]
+24/08/2020 12:19:36 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id='manageFlights:updatePassengerDetailsLink']'
+24/08/2020 12:20:01 devpinoyLogger Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='paxRepeat:0:dobDayDD']]] entered value as : 1
+24/08/2020 12:20:05 devpinoyLogger Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='paxRepeat:0:dobmonth']]] entered value as : 3
+24/08/2020 12:20:10 devpinoyLogger Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='paxRepeat:0:dobyear']]] entered value as : 19
+24/08/2020 12:20:14 devpinoyLogger Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='paxRepeat:0:nationalityDD']]] entered value as : 3
+24/08/2020 12:20:14 devpinoyLogger Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='0_PASSPORT_docNum']]
+24/08/2020 12:20:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='0_PASSPORT_docNum']] entered value as : ABCD789
+24/08/2020 12:20:25 devpinoyLogger Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@name='paxRepeat:0:j_id_bb']]] entered value as : 1
+24/08/2020 12:20:37 devpinoyLogger Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@name='paxRepeat:0:j_id_bf']]] entered value as : 2
+24/08/2020 12:20:51 devpinoyLogger Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@name='paxRepeat:0:j_id_bf']], [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@name='paxRepeat:0:j_id_bj']]] entered value as : 5
+24/08/2020 12:20:55 devpinoyLogger Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:j_id_i8']]
+24/08/2020 12:20:56 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:j_id_i8']] entered value as : Test
+24/08/2020 12:20:56 devpinoyLogger Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:j_id_j3']]
+24/08/2020 12:20:56 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:j_id_j3']] entered value as : Test
+24/08/2020 12:21:03 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:paxvalidation']]
+24/08/2020 12:21:08 devpinoyLogger Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='contactCountry']]] entered value as : 2
+24/08/2020 12:21:08 devpinoyLogger Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='contactNumber']]
+24/08/2020 12:21:09 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='contactNumber']] entered value as : 9989898989
+24/08/2020 12:21:13 devpinoyLogger Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='paxemail']]
+24/08/2020 12:21:19 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='paxemail']] entered value as : amitkumar2@qatarairways.com.qa
+24/08/2020 12:21:20 devpinoyLogger Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='confirmEmail']]
+24/08/2020 12:21:21 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='confirmEmail']] entered value as : amitkumar2@qatarairways.com.qa
+24/08/2020 12:21:21 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='infoverified']]
+24/08/2020 12:21:28 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='contactbtn']]
+24/08/2020 12:22:39 devpinoyLogger test execution completed !!!

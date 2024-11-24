@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nSP_Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="606.686">
+  <properties />
+  
+  
+            <testcase name="UpdatePassengerDetails" time="306.450" classname="nSP.testcases.TestCase_UpdatePassengerDetails" />
+                <testcase name="UpdatePassengerDetails" time="300.236" classname="nSP.testcases.TestCase_UpdatePassengerDetails" />
+      
+</testsuite>

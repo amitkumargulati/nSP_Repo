@@ -1,0 +1,37 @@
+12:18:52,674 DEBUG devpinoyLogger:83 - Launching Chrome
+12:18:56,484 DEBUG devpinoyLogger:155 - Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrValue']]
+12:18:56,707 DEBUG devpinoyLogger:246 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrValue']] entered value as : O8VYR2 
+12:18:56,849 DEBUG devpinoyLogger:155 - Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrlastname']]
+12:18:57,024 DEBUG devpinoyLogger:246 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrlastname']] entered value as : kumar
+12:18:57,279 DEBUG devpinoyLogger:229 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id ='pnrlastname']]
+12:18:57,579 DEBUG devpinoyLogger:294 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='searchPNRBtn']]
+12:19:36,308 DEBUG devpinoyLogger:229 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id='manageFlights:updatePassengerDetailsLink']'
+12:20:01,210 DEBUG devpinoyLogger:268 - Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='paxRepeat:0:dobDayDD']]] entered value as : 1
+12:20:05,433 DEBUG devpinoyLogger:268 - Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='paxRepeat:0:dobmonth']]] entered value as : 3
+12:20:10,963 DEBUG devpinoyLogger:268 - Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='paxRepeat:0:dobyear']]] entered value as : 19
+12:20:14,192 DEBUG devpinoyLogger:268 - Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='paxRepeat:0:nationalityDD']]] entered value as : 3
+12:20:14,416 DEBUG devpinoyLogger:155 - Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='0_PASSPORT_docNum']]
+12:20:14,812 DEBUG devpinoyLogger:246 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='0_PASSPORT_docNum']] entered value as : ABCD789
+12:20:25,263 DEBUG devpinoyLogger:268 - Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@name='paxRepeat:0:j_id_bb']]] entered value as : 1
+12:20:37,638 DEBUG devpinoyLogger:268 - Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@name='paxRepeat:0:j_id_bf']]] entered value as : 2
+12:20:51,398 DEBUG devpinoyLogger:268 - Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@name='paxRepeat:0:j_id_bf']], [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@name='paxRepeat:0:j_id_bj']]] entered value as : 5
+12:20:55,782 DEBUG devpinoyLogger:155 - Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:j_id_i8']]
+12:20:56,130 DEBUG devpinoyLogger:246 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:j_id_i8']] entered value as : Test
+12:20:56,311 DEBUG devpinoyLogger:155 - Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:j_id_j3']]
+12:20:56,578 DEBUG devpinoyLogger:246 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:j_id_j3']] entered value as : Test
+12:21:03,215 DEBUG devpinoyLogger:294 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='paxRepeat:0:paxvalidation']]
+12:21:08,441 DEBUG devpinoyLogger:268 - Typing in an Element : [[[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //select[@id='contactCountry']]] entered value as : 2
+12:21:08,622 DEBUG devpinoyLogger:155 - Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='contactNumber']]
+12:21:09,044 DEBUG devpinoyLogger:246 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='contactNumber']] entered value as : 9989898989
+12:21:13,377 DEBUG devpinoyLogger:155 - Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='paxemail']]
+12:21:19,365 DEBUG devpinoyLogger:246 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='paxemail']] entered value as : amitkumar2@qatarairways.com.qa
+12:21:20,590 DEBUG devpinoyLogger:155 - Clearing Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='confirmEmail']]
+12:21:21,446 DEBUG devpinoyLogger:246 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //input[@id='confirmEmail']] entered value as : amitkumar2@qatarairways.com.qa
+12:21:21,728 DEBUG devpinoyLogger:191 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='infoverified']]
+12:21:28,345 DEBUG devpinoyLogger:294 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (211a723be6d621995997836df97a2f4c)] -> xpath: //*[@id='contactbtn']]
+12:22:38,404 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:22:38,405 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:22:38,406 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:22:38,407 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:22:38,407 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/D:/Users/T15109/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:22:39,887 DEBUG devpinoyLogger:110 - test execution completed !!!

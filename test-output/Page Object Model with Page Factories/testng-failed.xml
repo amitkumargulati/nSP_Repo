@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Page Object Model with Page Factories]">
+  <listeners>
+    <listener class-name="nSP.listeners.CustomListeners"/>
+    <listener class-name="nSP.errorcollectors.TestListenerAdapter"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Sign in Test(failed)">
+    <classes>
+      <class name="nSP.testcases.BookReturnTicket">
+        <methods>
+          <include name="signInTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- nSP.testcases.BookReturnTicket -->
+      <class name="nSP.testcases.SignInTest">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- nSP.testcases.SignInTest -->
+    </classes>
+  </test> <!-- Sign in Test(failed) -->
+</suite> <!-- Failed suite [Page Object Model with Page Factories] -->

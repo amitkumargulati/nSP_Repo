@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nSP_Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="49.941">
+  <properties />
+  
+  
+            <testcase name="EmailTripSummary" time="24.641" classname="nSP.testcases.TestCase_EmailTripSummary" />
+                <testcase name="EmailTripSummary" time="25.300" classname="nSP.testcases.TestCase_EmailTripSummary" />
+      
+</testsuite>
