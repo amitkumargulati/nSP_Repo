@@ -16,23 +16,7 @@
 	<test thread-count="1" name="nSP_Test">
 		<classes>
 			
-			<class name="nSP.testcases.BookReturnTicketDeeplink" />
-			
 			<class name="nSP.testcases.BookOneWayTicket" />
-			
-			<class name="nSP.testcases.TestCase_UpdatePassengerDetails" />
-			
-			<class name="nSP.testcases.TestCase_PurchaseExcessBaggage" />
-			
-			<class name="nSP.testcases.TestCase_EmailTripSummary" />
-			
-			<class name="nSP.testcases.TestCase_SelectMeal" />
-			
-			<class name="nSP.testcases.SignInTest" />
-			
-			
-			
-			<class name="nSP.testcases.BookReturnTicketDeeplink" />
 		
 			
 

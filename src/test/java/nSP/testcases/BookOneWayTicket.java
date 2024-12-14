@@ -11,8 +11,8 @@ import nSP.base.Constants;
 import nSP.base.Page;
 import nSP.utilities.Utilities;
 
-//@Guice
-//@Listeners(nSP.listeners.CustomListeners.class)
+@Guice
+@Listeners(nSP.listeners.CustomListeners.class)
 public class BookOneWayTicket {
 
 	@Test(dataProviderClass = Utilities.class, dataProvider = "dp")

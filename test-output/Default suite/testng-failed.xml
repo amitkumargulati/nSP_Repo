@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="nSP.testcases.BookOneWayTicket">
+      <class name="nSP.testcases.BookReturnTicketDeeplink">
         <methods>
-          <include name="bookOneWayTicket" invocation-numbers="0 1"/>
+          <include name="bookReturnTicketDeeplink" invocation-numbers="0 1"/>
         </methods>
-      </class> <!-- nSP.testcases.BookOneWayTicket -->
+      </class> <!-- nSP.testcases.BookReturnTicketDeeplink -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
